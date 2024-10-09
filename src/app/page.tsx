@@ -6,7 +6,7 @@ export default function Home() {
     <main className="flex bg-white">
       <div className="p-3">
         <h1 className="font-black text-3xl">Welcome to Mcqs Academy</h1>
-        <h2 className="font-semibold text-2xl">We've Got you</h2>
+        <h2 className="font-semibold text-2xl">We Got you</h2>
         <p className="text-lg">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa doloremque, pariatur numquam vel natus dolorem ipsa similique cum, inventore, perferendis a et ipsum nisi expedita.
         </p>
